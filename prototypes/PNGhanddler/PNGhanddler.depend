@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1675678956 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\prototypes\pnghanddler\main.cpp
+	<iostream>
+	"pnghanddler.h"
+
+1675685695 c:\users\erick\documents\meusprojetos\c++\cakeengine\prototypes\pnghanddler\pnghanddler.h
+	<stdio.h>
+	<iostream>
+	<vector>
+	"api.h"
+
+1675422531 c:\users\erick\documents\meusprojetos\c++\cakeengine\prototypes\pnghanddler\api.h
+	<cstdint>
+
+1675607203 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\prototypes\pnghanddler\pnghanddler.cpp
+	"pnghanddler.h"
+

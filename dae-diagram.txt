@@ -1,0 +1,23 @@
+
+#DaeObject:
+	
+	#Geometry:
+		
+		#ArrayV<T>:
+			* src:		array<T>
+			* src_len:	int
+		
+		#Source:
+			* id:		string
+			* array:	#ArrayV<T>
+		
+		#Input:
+			* semantic:	string
+			* source:	#Source
+			* offset:	short
+			* set:		short
+		
+		#Triangles:
+			* inputs:	array<#Input>
+			* indices:	array<short>
+		

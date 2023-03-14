@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1675866573 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\prototypes\xmlhanddler\main.cpp
+	<iostream>
+	"src/xmlhanddler.h"
+
+1675867137 c:\users\erick\documents\meusprojetos\c++\cakeengine\prototypes\xmlhanddler\src\xmlhanddler.h
+	<iostream>
+	<unordered_map>
+	<string>
+	<string.h>
+	<vector>
+	<api.h>
+
+1675272028 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\api.h
+	<cstdint>
+
+1675867256 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\prototypes\xmlhanddler\src\xmlhanddler.cpp
+	"xmlhanddler.h"
+

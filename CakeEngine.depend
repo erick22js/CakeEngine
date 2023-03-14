@@ -1,0 +1,1525 @@
+# depslib dependency file v1.0
+1667765586 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<GL/glew.h>
+	<SDL2/SDL_opengl.h>
+
+1638246272 c:\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1638246272 c:\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\begin_code.h
+
+1638246272 c:\sdl2\include\sdl2\close_code.h
+
+1638246272 c:\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1501501581 c:\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1638246272 c:\sdl2\include\sdl2\sdl_opengl.h
+	"SDL_config.h"
+	"gl_mangle.h"
+	<windows.h>
+	"SDL_opengl_glext.h"
+
+1638246272 c:\sdl2\include\sdl2\sdl_opengl_glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\begin_code.h
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\close_code.h
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1501501581 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_opengl.h
+	"SDL_config.h"
+	"gl_mangle.h"
+	<windows.h>
+	"SDL_opengl_glext.h"
+
+1638246272 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_opengl_glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1676828516 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"test.hpp"
+
+1675946736 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\cakeengine.h
+	"file/handdler.h"
+	"graphics/Graphics.h"
+	"input/Input.h"
+	"math/Math.h"
+	"resources/Resources.h"
+	"util/util.h"
+
+1675263690 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\graphics.h
+	"window/Window.h"
+	"renderer/Renderer.h"
+	"renderer/Texture.h"
+	"renderer/materials/generic.h"
+
+1676033391 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\window\window.h
+	<SDL2/SDL.h>
+	<GL/glew.h>
+	<SDL2/SDL_opengl.h>
+	"../../api.h"
+
+1676032134 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\opengl\opengl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_Image.h>
+	<GL/glew.h>
+	<SDL2/SDL_opengl.h>
+	"../../api.h"
+
+1675272028 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\api.h
+	<cstdint>
+
+1677491935 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\window\window.cpp
+	<CakeEngine/graphics/window/Window.hpp>
+	<CakeEngine/input/InputHanddler.hpp>
+	<iostream>
+
+1676294612 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\renderable.cpp
+	<CakeEngine/graphics/renderer/Renderable.hpp>
+
+1675264032 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\renderable.h
+	"Mesh.h"
+	"ShaderProgram.h"
+
+1676024435 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\mesh.h
+	"ShaderAttribs.h"
+
+1676029284 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\shaderattribs.h
+	<iostream>
+	<vector>
+	"../../api.h"
+	"../OpenGL/opengl.h"
+
+1676029590 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\shaderprogram.h
+	"ShaderAttribs.h"
+
+1676034325 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\renderer.h
+	"../window/Window.h"
+	"Renderable.h"
+	"Texture.h"
+
+1677419755 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\renderer.cpp
+	<CakeEngine/graphics/renderer/Renderer.hpp>
+	<stdio.h>
+
+1676201930 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\shaderprogram.cpp
+	<iostream>
+	<CakeEngine/graphics/renderer/ShaderProgram.hpp>
+
+1676201920 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\shaderattribs.cpp
+	<string.h>
+	<CakeEngine/graphics/renderer/ShaderAttribs.hpp>
+
+1676294593 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\mesh.cpp
+	<CakeEngine/graphics/renderer/Mesh.hpp>
+
+1675197546 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\shaderuniforms.h
+	<iostream>
+	<vector>
+	"../../api.h"
+	"../OpenGL/opengl.h"
+
+1676201938 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\shaderuniforms.cpp
+	<string.h>
+	<CakeEngine/graphics/renderer/ShaderUniforms.hpp>
+
+1675260103 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\testimage.h
+
+1675936852 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\materials\generic.h
+	"../ShaderProgram.h"
+
+1676203836 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\materials\generic.cpp
+	<CakeEngine/graphics/renderer/materials/Generic.hpp>
+
+1676031733 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\texture.h
+	"../OpenGL/opengl.h"
+	"../../util/Image.h"
+
+1676201948 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\texture.cpp
+	<CakeEngine/graphics/renderer/Texture.hpp>
+
+1676377178 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\input\inputhanddler.cpp
+	<CakeEngine/input/InputHanddler.hpp>
+
+1675270654 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\input\inputhanddler.h
+	<iostream>
+	<map>
+	"../graphics/window/Window.h"
+
+1675269147 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\input\input.h
+	"InputHanddler.h"
+
+1676202026 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\vector\vector2.cpp
+	<CakeEngine/math/vector/Vector2.hpp>
+	<CakeEngine/math/matrix/Matrix3.hpp>
+
+1675347623 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\vector\vector2.h
+	"../util.h"
+
+1675336539 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\util.h
+	<math.h>
+	"../api.h"
+
+1675350210 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\math.h
+	"Vector/Vector2.h"
+	"Vector/Vector3.h"
+	"Matrix/Matrix3.h"
+	"Matrix/Matrix4.h"
+	"Color.h"
+
+1675346002 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\vector\vector3.h
+	"../util.h"
+
+1675279468 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\matrix\matrix3.h
+	"../util.h"
+
+1676202048 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\vector\vector3.cpp
+	<CakeEngine/math/vector/Vector3.hpp>
+	<CakeEngine/math/vector/Vector2.hpp>
+	<CakeEngine/math/matrix/Matrix4.hpp>
+
+1676201997 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\matrix\matrix3.cpp
+	<CakeEngine/math/matrix/Matrix3.hpp>
+	<CakeEngine/math/vector/Vector2.hpp>
+	<CakeEngine/math/vector/Vector3.hpp>
+
+1677250662 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\matrix\matrix4.cpp
+	<CakeEngine/math/matrix/Matrix4.hpp>
+	<CakeEngine/math/vector/Vector3.hpp>
+
+1675375512 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\matrix\matrix4.h
+	"../util.h"
+
+1675351015 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\color.h
+	"util.h"
+
+1676202058 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\color.cpp
+	<CakeEngine/math/Color.hpp>
+
+1676202094 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\core\object2d.cpp
+	<CakeEngine/resources/core/Object2D.hpp>
+
+1675373071 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\core\object2d.h
+	"../../math/Vector/Vector2.h"
+	"../../math/Matrix/Matrix3.h"
+
+1676202102 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\core\object3d.cpp
+	<CakeEngine/resources/core/Object3D.hpp>
+
+1675373075 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\core\object3d.h
+	"../../math/Vector/Vector3.h"
+	"../../math/Matrix/Matrix4.h"
+
+1676202074 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\core\camera2d.cpp
+	<CakeEngine/resources/core/Camera2D.hpp>
+
+1675374765 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\core\camera2d.h
+	"../../math/Vector/Vector2.h"
+	"../../math/Matrix/Matrix3.h"
+
+1676202082 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\core\camera3d.cpp
+	<CakeEngine/resources/core/Camera3D.hpp>
+
+1675374749 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\core\camera3d.h
+	"../../math/Vector/Vector3.h"
+	"../../math/Matrix/Matrix4.h"
+
+1675374432 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\resources.h
+	"core/Object2D.h"
+	"core/Object3D.h"
+	"core/Camera2D.h"
+	"core/Camera3D.h"
+
+1660929642 c:\users\erick\documents\meusprojetos\c++\cakeengine\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675946404 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\util.h
+	"Image.h"
+	"modelbuilder/MeshBuilder.h"
+	"formats/XmlHanddler.h"
+
+1675771280 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\image.h
+	"Pixels.h"
+
+1676029517 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\pixels.h
+	<SDL2/SDL.h>
+	<GL/glew.h>
+	"../graphics/OpenGL/opengl.h"
+
+1676202869 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\image.cpp
+	<SDL2/SDL_image.h>
+	<CakeEngine/util/Image.hpp>
+
+1675940429 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\modelbuilder\modelbuilder.cpp
+	"ModelBuilder.h"
+
+1675940245 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\modelbuilder\modelbuilder.h
+	<iostream>
+	<vector>
+	"../../graphics/renderer/Mesh.h"
+
+1675945369 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\modelbuilder\meshbuilder.h
+	<iostream>
+	<vector>
+	"../../graphics/renderer/Mesh.h"
+
+1676202132 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\modelbuilder\meshbuilder.cpp
+	<CakeEngine/util/modelbuilder/MeshBuilder.hpp>
+
+1676838020 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\formats\xmlhanddler.cpp
+	<CakeEngine/util/formats/XmlHanddler.hpp>
+
+1676025997 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\formats\xmlhanddler.h
+	<iostream>
+	<unordered_map>
+	<string>
+	<string.h>
+	<vector>
+	"../../file/Reader.h"
+	"../../file/Writer.h"
+
+1675953176 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\file\handdler.h
+	"Stream.h"
+	"File.h"
+	"FileBuffer.h"
+	"Reader.h"
+	"Writer.h"
+
+1676025041 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\file\stream.h
+	<stdio.h>
+	<iostream>
+	<vector>
+	"../api.h"
+
+1675952979 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\file\file.h
+	"Stream.h"
+
+1675952998 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\file\filebuffer.h
+	"Stream.h"
+
+1676201177 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\file\stream.cpp
+	<CakeEngine/file/Stream.hpp>
+
+1676023670 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\file\reader.h
+	"Stream.h"
+
+1676026109 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\file\writer.h
+	"Stream.h"
+
+1676201837 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\file\reader.cpp
+	<string.h>
+	<CakeEngine/file/Reader.hpp>
+
+1676636543 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\file\writer.cpp
+	<string.h>
+	<CakeEngine/file/Writer.hpp>
+
+1676208991 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\opengl\opengl.cpp
+	<CakeEngine/graphics/opengl/opengl.hpp>
+
+1677493508 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\cakeengine.hpp
+	"file/handdler.hpp"
+	"execution/Thread.hpp"
+	"graphics/graphics.hpp"
+	"input/input.hpp"
+	<CakeEngine/sound/Speaker.hpp>
+	"math/math.hpp"
+	"resources/resources.hpp"
+	"util/util.hpp"
+	"resources/core/Core.hpp"
+
+1676202221 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\file\handdler.hpp
+	"Stream.hpp"
+	"File.hpp"
+	"FileBuffer.hpp"
+	"Reader.hpp"
+	"Writer.hpp"
+
+1676202260 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\file\stream.hpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"../api.hpp"
+
+1676628422 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\api.hpp
+	<cstdint>
+
+1676202160 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\file\file.hpp
+	"Stream.hpp"
+
+1676202177 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\file\filebuffer.hpp
+	"Stream.hpp"
+
+1676202233 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\file\reader.hpp
+	"Stream.hpp"
+
+1676202240 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\file\writer.hpp
+	"Stream.hpp"
+
+1676387037 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\graphics.hpp
+	"window/Window.hpp"
+	"renderer/Renderer.hpp"
+	"renderer/Texture.hpp"
+	"renderer/materials/Generic2D.hpp"
+	"renderer/materials/Generic3D.hpp"
+	<CakeEngine/graphics/renderer/materials/ModelMaterial.hpp>
+
+1677491770 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\window\window.hpp
+	<SDL2/SDL.h>
+	<GL/glew.h>
+	<SDL2/SDL_opengl.h>
+	"../../api.hpp"
+
+1677418014 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\renderer.hpp
+	"../window/Window.hpp"
+	"Renderable.hpp"
+	"Texture.hpp"
+	"CompositeOperations.hpp"
+	<CakeEngine/graphics/renderer/FrameBuffer.hpp>
+
+1676464289 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\renderable.hpp
+	"Mesh.hpp"
+	"ShaderProgram.hpp"
+
+1677419342 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\mesh.hpp
+	"ShaderAttribs.hpp"
+
+1676202381 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\shaderattribs.hpp
+	<iostream>
+	<vector>
+	"../../api.hpp"
+	"../opengl/opengl.hpp"
+
+1677419659 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\opengl\opengl.hpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_Image.h>
+	<GL/glew.h>
+	<SDL2/SDL_opengl.h>
+	"../../api.hpp"
+
+1676202411 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\shaderprogram.hpp
+	"ShaderAttribs.hpp"
+
+1677418148 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\texture.hpp
+	"../opengl/opengl.hpp"
+	"../../util/Image.hpp"
+
+1676199476 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\util\image.hpp
+	"Pixels.hpp"
+
+1676199480 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\util\pixels.hpp
+	<SDL2/SDL.h>
+	<GL/glew.h>
+	"../graphics/OpenGL/opengl.hpp"
+
+1676202311 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\materials\generic.hpp
+	"../ShaderProgram.hpp"
+
+1676202503 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\input\input.hpp
+	"InputHanddler.hpp"
+
+1676377160 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\input\inputhanddler.hpp
+	<iostream>
+	<map>
+	"../graphics/window/Window.hpp"
+
+1677584539 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\math.hpp
+	"vector/Vector2.hpp"
+	"vector/Vector3.hpp"
+	"matrix/Matrix3.hpp"
+	"matrix/Matrix4.hpp"
+	"Color.hpp"
+	<CakeEngine/math/shape/Shape2D.hpp>
+	<CakeEngine/math/shape/Geometry2D.hpp>
+	<CakeEngine/math/general/PerlinNoise.hpp>
+
+1676202565 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\vector\vector2.hpp
+	"../util.hpp"
+
+1677586607 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\util.hpp
+	<SDL2/SDL.h>
+	<math.h>
+	<CakeEngine/api.hpp>
+
+1676202573 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\vector\vector3.hpp
+	"../util.hpp"
+
+1676202535 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\matrix\matrix3.hpp
+	"../util.hpp"
+
+1676456491 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\matrix\matrix4.hpp
+	"../util.hpp"
+
+1676202580 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\color.hpp
+	"util.hpp"
+
+1676811945 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\resources.hpp
+	"objects/Object2D.hpp"
+	"objects/Object3D.hpp"
+	"objects/Pov2D.hpp"
+	"objects/Pov3D.hpp"
+	<CakeEngine/resources/g3d/ModelInstance.hpp>
+
+1676202757 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\core\object2d.hpp
+	"../../math/vector/Vector2.hpp"
+	"../../math/matrix/Matrix3.hpp"
+
+1676202684 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\core\object3d.hpp
+	"../../math/vector/Vector3.hpp"
+	"../../math/matrix/Matrix4.hpp"
+
+1676202638 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\core\camera2d.hpp
+	"../../math/vector/Vector2.hpp"
+	"../../math/matrix/Matrix3.hpp"
+
+1676202654 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\core\camera3d.hpp
+	"../../math/vector/Vector3.hpp"
+	"../../math/matrix/Matrix4.hpp"
+
+1676630572 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\util\util.hpp
+	"Image.hpp"
+	"modelbuilder/MeshBuilder.hpp"
+	<CakeEngine/util/String.hpp>
+	<CakeEngine/util/Dictionary.hpp>
+	"formats/XmlHanddler.hpp"
+	<CakeEngine/util/formats/DaeHanddler.hpp>
+
+1676199469 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\util\modelbuilder\meshbuilder.hpp
+	<iostream>
+	<vector>
+	"../../graphics/renderer/Mesh.hpp"
+
+1676809341 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\util\formats\xmlhanddler.hpp
+	<iostream>
+	<vector>
+	"../../file/Reader.hpp"
+	"../../file/Writer.hpp"
+	<CakeEngine/util/String.hpp>
+	<CakeEngine/util/Dictionary.hpp>
+
+1676202428 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\shaderuniforms.hpp
+	<iostream>
+	<vector>
+	"../../api.hpp"
+	"../opengl/opengl.hpp"
+
+1677419257 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\compositeoperations.cpp
+	<CakeEngine/graphics/renderer/CompositeOperations.hpp>
+
+1677419236 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\compositeoperations.hpp
+	"../opengl/opengl.hpp"
+
+1676209408 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\materials\generic3d.cpp
+	<CakeEngine/graphics/renderer/materials/Generic3D.hpp>
+
+1676209406 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\materials\generic3d.hpp
+	"../ShaderProgram.hpp"
+
+1676209618 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\materials\generic2d.hpp
+	"../ShaderProgram.hpp"
+
+1676209807 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\materials\generic2d.cpp
+	<CakeEngine/graphics/renderer/materials/Generic2D.hpp>
+
+1676377685 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\execution\thread.cpp
+	<CakeEngine/execution/Thread.hpp>
+
+1676377666 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\execution\thread.hpp
+	<iostream>
+	<thread>
+	<SDL2/SDL_thread.h>
+	"../api.hpp"
+
+1676381234 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\core\core.hpp
+	<CakeEngine/api.hpp>
+	<CakeEngine/resources/core/CoreApplicationSettings.hpp>
+	<CakeEngine/graphics/window/Window.hpp>
+	<CakeEngine/graphics/renderer/Renderer.hpp>
+	<CakeEngine/input/InputHanddler.hpp>
+	<CakeEngine/resources/scene/Scene2D.hpp>
+	<CakeEngine/resources/scene/Scene3D.hpp>
+
+1676384743 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\objects\object2d.hpp
+	"../../math/vector/Vector2.hpp"
+	"../../math/matrix/Matrix3.hpp"
+
+1676384764 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\objects\object3d.hpp
+	"../../math/vector/Vector3.hpp"
+	"../../math/matrix/Matrix4.hpp"
+
+1676202638 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\objects\camera2d.hpp
+	"../../math/vector/Vector2.hpp"
+	"../../math/matrix/Matrix3.hpp"
+
+1676202654 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\objects\camera3d.hpp
+	"../../math/vector/Vector3.hpp"
+	"../../math/matrix/Matrix4.hpp"
+
+1676811319 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\core\core.cpp
+	<CakeEngine/resources/core/Core.hpp>
+
+1676294469 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\objects\camera2d.cpp
+	<CakeEngine/resources/objects/Camera2D.hpp>
+
+1676294475 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\objects\camera3d.cpp
+	<CakeEngine/resources/objects/Camera3D.hpp>
+
+1676294480 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\objects\object2d.cpp
+	<CakeEngine/resources/objects/Object2D.hpp>
+
+1676294486 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\objects\object3d.cpp
+	<CakeEngine/resources/objects/Object3D.hpp>
+
+1676373819 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\core\coreapplicationsettings.hpp
+	<CakeEngine/api.hpp>
+
+1676373849 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\core\coreapplicationsettings.cpp
+	<CakeEngine/resources/core/CoreApplicationSettings.hpp>
+
+1677537362 c:\users\erick\documents\meusprojetos\c++\cakeengine\src\test.hpp
+	<CakeEngine/CakeEngine.hpp>
+
+1676378102 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\objects\pov2d.hpp
+	"../../math/vector/Vector2.hpp"
+	"../../math/matrix/Matrix3.hpp"
+
+1676378119 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\objects\pov3d.hpp
+	"../../math/vector/Vector3.hpp"
+	"../../math/matrix/Matrix4.hpp"
+
+1676378152 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\objects\pov2d.cpp
+	<CakeEngine/resources/objects/Pov2D.hpp>
+
+1676378159 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\objects\pov3d.cpp
+	<CakeEngine/resources/objects/Pov3D.hpp>
+
+1676385266 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\scene\scene2d.hpp
+	<CakeEngine/resources/scene/Node2D.hpp>
+	<CakeEngine/resources/objects/Pov2D.hpp>
+
+1676384168 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\scene\node2d.hpp
+	<iostream>
+	<vector>
+	<CakeEngine/resources/objects/Object2D.hpp>
+	<CakeEngine/graphics/renderer/Renderer.hpp>
+
+1676460648 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\scene\scene3d.hpp
+	<CakeEngine/resources/scene/Node3D.hpp>
+	<CakeEngine/resources/objects/Pov3D.hpp>
+
+1676811585 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\scene\node3d.hpp
+	<iostream>
+	<vector>
+	<CakeEngine/resources/objects/Object3D.hpp>
+	<CakeEngine/graphics/renderer/Renderer.hpp>
+
+1676549021 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\scene\scene2d.cpp
+	<CakeEngine/resources/scene/Scene2D.hpp>
+
+1676549009 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\scene\scene3d.cpp
+	<CakeEngine/resources/scene/Scene3D.hpp>
+
+1676549246 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\scene\node2d.cpp
+	<CakeEngine/resources/scene/Node2D.hpp>
+
+1676811700 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\scene\node3d.cpp
+	<CakeEngine/resources/scene/Node3D.hpp>
+
+1676461711 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\materials\modelmaterial.hpp
+	<CakeEngine/graphics/renderer/ShaderProgram.hpp>
+
+1676985489 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\materials\modelmaterial.cpp
+	<CakeEngine/graphics/renderer/materials/ModelMaterial.hpp>
+
+1676548776 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\g3d\modelinstance.h
+	<CakeEngine/util/modelbuilder/MeshBuilder.hpp>
+	<CakeEngine/graphics/renderer/materials/ModelMaterial.hpp>
+	<CakeEngine/graphics/renderer/Renderable.hpp>
+	<CakeEngine/resources/scene/Node3D.hpp>
+	<CakeEngine/graphics/renderer/Texture.hpp>
+
+1676903215 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\resources\g3d\modelinstance.cpp
+	<CakeEngine/resources/g3d/ModelInstance.hpp>
+
+1676894813 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\util\formats\daehanddler.hpp
+	<CakeEngine/util/formats/XmlHanddler.hpp>
+	<CakeEngine/resources/g3d/ModelInstance.hpp>
+	<CakeEngine/resources/scene/Scene3D.hpp>
+
+1676901559 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\formats\daehanddler.cpp
+	<CakeEngine/util/formats/DaeHanddler.hpp>
+
+1676890378 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\util\string.hpp
+	<string.h>
+	<string>
+	<CakeEngine/api.hpp>
+
+1676630333 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\util\dictionary.h
+	<unordered_map>
+	<CakeEngine/util/String.hpp>
+
+1676837884 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\util\dictionary.hpp
+	<unordered_map>
+	<CakeEngine/util/String.hpp>
+
+1676890395 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\string.cpp
+	<CakeEngine/util/String.hpp>
+	<CakeEngine/util/Dictionary.hpp>
+	<stdio.h>
+
+1676632077 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\util\dictionary.cpp
+	<CakeEngine/util/Dictionary.hpp>
+
+1676812002 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\resources\g3d\modelinstance.hpp
+	<CakeEngine/util/modelbuilder/MeshBuilder.hpp>
+	<CakeEngine/graphics/renderer/materials/ModelMaterial.hpp>
+	<CakeEngine/graphics/renderer/Renderable.hpp>
+	<CakeEngine/resources/scene/Node3D.hpp>
+	<CakeEngine/graphics/renderer/Texture.hpp>
+
+1677250650 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\util.cpp
+	<CakeEngine/math/util.hpp>
+
+1677418117 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\graphics\renderer\framebuffer.hpp
+	<CakeEngine/api.hpp>
+	<CakeEngine/graphics/opengl/opengl.hpp>
+	<CakeEngine/graphics/renderer/Texture.hpp>
+
+1677417929 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\graphics\renderer\framebuffer.cpp
+	<CakeEngine/graphics/renderer/FrameBuffer.hpp>
+
+1677421323 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\shape\shape2d.hpp
+	<CakeEngine/math/util.hpp>
+	<CakeEngine/math/vector/Vector2.hpp>
+
+1677421240 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\shape\shape2d.cpp
+	<CakeEngine/math/shape/Shape2D.hpp>
+
+1677431481 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\shape\collision2d.hpp
+	<iostream>
+	<vector>
+	<CakeEngine/math/util.hpp>
+	<CakeEngine/math/vector/Vector2.hpp>
+
+1677450145 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\shape\geometry2d.hpp
+	<iostream>
+	<vector>
+	<CakeEngine/math/util.hpp>
+	<CakeEngine/math/vector/Vector2.hpp>
+
+1677450876 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\math\shape\geometry2d.cpp
+	<CakeEngine/math/shape/Geometry2D.hpp>
+
+1677536451 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\sound\speaker.hpp
+	<CakeEngine/graphics/window/Window.hpp>
+	<CakeEngine/sound/Audio.hpp>
+
+1677493795 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\sound\audiobuffer.h
+	<SDL2/SDL.h>
+	<CakeEngine/sound/Speaker.hpp>
+
+1677498176 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\sound\audiobuffer.cpp
+	<iostream>
+	<CakeEngine/sound/AudioBuffer.hpp>
+
+1677537300 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\sound\speaker.cpp
+	<iostream>
+	<CakeEngine/sound/Speaker.hpp>
+
+1677536486 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\sound\audio.hpp
+	<CakeEngine/sound/AudioBuffer.hpp>
+
+1677498499 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\sound\audiobuffer.hpp
+	<SDL2/SDL.h>
+	<CakeEngine/api.hpp>
+
+1677537240 source:c:\users\erick\documents\meusprojetos\c++\cakeengine\src\cakeengine\sound\audio.cpp
+	<iostream>
+	<CakeEngine/sound/Audio.hpp>
+
+1677587160 c:\users\erick\documents\meusprojetos\c++\cakeengine\headers\cakeengine\math\general\perlinnoise.hpp
+	<CakeEngine/math/util.hpp>
+	<CakeEngine/math/vector/Vector2.hpp>
+	<CakeEngine/math/vector/Vector3.hpp>
+
